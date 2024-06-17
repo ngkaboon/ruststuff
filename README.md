@@ -1,1 +1,2 @@
 # ruststuff
+Practising some rust
